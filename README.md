@@ -1,43 +1,49 @@
+<!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" href="css/stylesheet.css">
-    </head>
-    <body>
-        <div class="bounce-start"></div>
-        <figure>
-            <img src="images/Alligator_Snapping_Turtle_An-gu-ry.jpg" alt="Alligator Snapping Turtle An-gu-ry">
-            <figcaption>Alligator Snapping Turtle An-gu-ry</figcaption>
-        </figure>
-        <figure>
-            <img src="images/Alligator_Snapping_Turtle_Chilling.jpg" alt="Alligator Snapping Turtle Chilling">
-            <figcaption>Alligator Snapping Turtle Chilling</figcaption>
-        </figure>
-        <figure>
-            <img src="images/Alligator_Snapping_Turtle_vs_Common_Snapping_Turtle.jpg" alt="Alligator Snapping Turtle vs Common Snapping Turtle">
-            <figcaption>Alligator Snapping Turtle vs Common Snapping Turtle</figcaption>
-        </figure>
-        <figure>
-            <img src="images/Alligator_Snapping_Turtle_vs_Energy_Drink.jpg" alt="Alligator Snapping Turtl vs Energy Drink">
-            <figcaption>Alligator Snapping Turtl vs Energy Drink</figcaption>
-        </figure>
-        <figure>
-            <img src="images/Common_Snapping_Turtle_Close_Up.jpg" alt="Common Snapping Turtle Close Up">
-            <figcaption>Common Snapping Turtle Close Up</figcaption>
-        </figure>
-        <figure>
-            <img src="images/Common_Snapping_Turtle_in_Minnesota.jpg" alt="Common Snapping Turtle in Minnesota">
-            <figcaption>Common Snapping Turtle in Minnesota</figcaption>
-        </figure>
-        <figure>
-            <img src="images/Common_Snapping_Turtle_Making_a_Friend.jpg" alt="Common Snapping Turtle Making a Friend">
-            <figcaption>Common Snapping Turtle Making a Friend</figcaption>
-        </figure>
-        <figure>
-            <img src="images/Common_Snapping_Turtle_Smiling.jpg" alt="Common Snapping Turtle Smiling">
-            <figcaption>Common Snapping Turtle Smiling</figcaption>
-        </figure>
-        <div class="bounce-end"></div>
-    </body>
+	<head>
+		<meta charset="utf-8">
+		<title>The Binding of Isaac</title>
+		<link rel="icon" href="images/favicon.png">
+		<link rel="stylesheet" href="styles/stylesheet.css">
+	</head>
+	<body>
+		<div class="character">
+    		<img src="images/characters/magdalene.png" alt="Character" width="100px" height="100px">
+		</div>
+		<main>
+			<section class="level-1-1">			</section>
+			<section class="level-2-1">
+			</section>
+			<section class="level-3-1">
+			</section>
+			<section class="level-4-1">
+			</section>
+			<section class="level-1-2">
+				<img src="images/rooms/room-5.jpg" alt="room" width="1000" height="647">
+			</section>
+			<section class="level-2-2">
+			</section>
+			<section class="level-3-2">
+				<img src="images/rooms/room-7.jpg" alt="room" width="1000" height="647">
+			</section>
+			<section class="level-4-2">
+			</section>
+			<section class="level-1-3">
+			</section>
+			<section class="level-2-3">
+			</section>
+			<section class="level-3-3">
+			</section>
+			<section class="level-4-3">
+			</section>
+			<section class="level-1-4">
+			</section>
+			<section class="level-2-4">
+			</section>
+			<section class="level-3-4">
+			</section>
+			<section class="level-4-4">
+			</section>
+		</main>
+	</body>
 </html>
